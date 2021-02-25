@@ -1,0 +1,24 @@
+{
+  "name": "fitness-app",
+  "version": "1.0.0",
+  "description": "An application for tracking and recommending workout plans",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kartish-A/fitness-App.git"
+  },
+  "author": "Abdoulfatah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kartish-A/fitness-App/issues"
+  },
+  "homepage": "https://github.com/Kartish-A/fitness-App#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.4",
+    "mongoose": "^5.11.18"
+  }
+}
